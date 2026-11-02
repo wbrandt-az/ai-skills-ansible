@@ -43,9 +43,7 @@ For architectural context when reviewing code, load the CoP structures
 reference:
 
 1. **Bundled reference** — Read from this plugin's `references/structures.adoc`.
-2. **Fetch from GitHub** (if missing) — Fetch from:
-   `https://raw.githubusercontent.com/redhat-cop/automation-good-practices/main/structures/README.adoc`
-3. **Skip** (if unavailable) — The Zen review can proceed without it; the
+2. **Skip** (if unavailable) — The Zen review can proceed without it; the
    20 Zen principles below are self-contained.
 
 This reference provides the Landscape/Type/Function/Component hierarchy
